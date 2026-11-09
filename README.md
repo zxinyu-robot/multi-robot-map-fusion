@@ -1,3 +1,5 @@
+> **本仓库已并入 [swarm-adapter-foundation](https://github.com/zxinyu-robot/swarm-adapter-foundation)，此处只读归档，后续维护在新仓库进行。**
+
 # Multi-Robot Map Fusion
 
 [![CI](https://github.com/zxinyu-robot/multi-robot-map-fusion/actions/workflows/ci.yml/badge.svg)](https://github.com/zxinyu-robot/multi-robot-map-fusion/actions/workflows/ci.yml)
